@@ -35,7 +35,7 @@
 - 其他地點皆免費或不需門票  
 
 RER-B  
-<img width="600" height="1115" alt="Paris_Metro_Ligne_13 svg" src="https://github.com/user-attachments/assets/1558cf2f-b86b-41f7-8087-a04629c29c21" />
+<img width="2515" height="347" alt="image" src="https://github.com/user-attachments/assets/a0d92a6d-bbe4-413f-96b8-c7f7135b8c4b" />
 
 地鐵4號線  
 ![Ligne_4](https://github.com/user-attachments/assets/7a9b43f3-ecfc-405e-8bc0-aad415e8a573)  
