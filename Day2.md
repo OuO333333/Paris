@@ -45,7 +45,7 @@
 | 返回巴黎 | 13:30–15:00 | Bus 1 + Transilien R | 約 1.5 小時 | — | 回 Gare de Lyon |
 | 加尼葉歌劇院外觀 + 拉法葉百貨 | 15:30–17:00 | 地鐵 14 號線(Gare de Lyon → Châtelet) 地鐵 1 號線（Châtelet → Opéra） | 約 1.5 小時 | ❌ 免費 | 可順便在百貨屋頂看巴黎景 |
 | 晚餐 | 18:30–20:00 | — | 約 1.5 小時 | — | 可在拉法葉或歌劇院附近用餐（推薦 Café de la Paix） |
-| 回飯店休息 | 20:00 之後 | 地鐵 7 → 13 → Gaîté | — | — | — |
+| 回飯店休息 | 20:00 之後 | 地鐵 7 號線(Opéra → Châtelet) 地鐵 13 號線（Châtelet → Montparnasse–Bienvenüe） → Gaîté | — | — | — |
 
 ---
 
