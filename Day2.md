@@ -25,7 +25,7 @@
 | 返回巴黎 | 15:30–17:00 | Bus 1 + Transilien R | 約 1.5 小時 | — | 回 Gare de Lyon |
 | 馬黑區 / 孚日廣場放鬆 | 17:30–18:30 | 地鐵 1 號線（Gare de Lyon → Saint-Paul） | 約 1 小時 | ❌ 免費 | 可在 Café Hugo 或 Carette Café 休息 |
 | 晚餐 | 18:30–20:00 | — | 約 1.5 小時 | — | 聖日耳曼或左岸區法式餐館 |
-| 回飯店休息 | 20:00 之後 | 地鐵 10 → 13 → Gaîté | — | — | — |
+| 回飯店休息 | 20:00 之後 | 地鐵 1  → 4  → 13 號線  Saint-Paul → Châtelet → Montparnasse – Bienvenüe → Gaîté | — | — | — |
 
 ---
 
