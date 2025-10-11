@@ -56,9 +56,12 @@
 - 拱廊街（Passages Couverts）是巴黎經典雨天備案，有玻璃屋頂、古典風格、書店與咖啡館。  
 - 若降水量超過 6 mm（中雨以上），建議採 **方案 B**，保證舒適又不重複。
 
+地鐵13號線  
 <img width="2293" height="975" alt="Plan_Métro_Paris_Ligne_13_-_2024" src="https://github.com/user-attachments/assets/a11ed6ac-6be7-444c-ab61-3a5c28620e48" />  
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6251eb44-0ae5-4bfc-a01a-3b5310cd36bf" />
+地鐵1號線  
 <img width="1500" height="269" alt="Plan_Paris_Métro_1_2024 svg" src="https://github.com/user-attachments/assets/819a9e8a-309b-4933-b0ee-62de674d92cd" />
 <img width="2560" height="986" alt="image" src="https://github.com/user-attachments/assets/770adb48-d96d-4ef7-a089-32b28a4c3063" />
+地鐵4號線  
 <img width="327" height="750" alt="image" src="https://github.com/user-attachments/assets/105ad3ba-aadd-4196-b9ab-a1566a344a8f" />
 
