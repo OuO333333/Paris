@@ -51,6 +51,7 @@
 ---
 
 📌 **備註**
-- Transilien R 為郊區火車（非 RER），票可現場購買或用 Navigo Easy。  
+- Transilien R 為郊區火車（非 RER），票可現場購買或用 Navigo Easy。
+- 里昂車站搭往Fontainebleau–Avon, 似乎是在 Hall 1, 地面層再往上一層? 
 - 拱廊街（Passages Couverts）是巴黎經典雨天備案，有玻璃屋頂、古典風格、書店與咖啡館。  
 - 若降水量超過 6 mm（中雨以上），建議採 **方案 B**，保證舒適又不重複。  
