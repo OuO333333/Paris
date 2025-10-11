@@ -59,7 +59,7 @@
 地鐵13號線  
 <img width="2293" height="975" alt="Plan_Métro_Paris_Ligne_13_-_2024" src="https://github.com/user-attachments/assets/a11ed6ac-6be7-444c-ab61-3a5c28620e48" />  
 地鐵6號線  
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6251eb44-0ae5-4bfc-a01a-3b5310cd36bf" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6251eb44-0ae5-4bfc-a01a-3b5310cd36bf" />  
 Transilien R  
 <img width="2217" height="711" alt="plan-de-ligne-R" src="https://github.com/user-attachments/assets/51729a50-3ac9-4d7f-bd82-8bc1d54d9f42" />
 地鐵1號線  
