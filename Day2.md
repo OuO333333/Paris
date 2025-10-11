@@ -57,4 +57,5 @@
 - 若降水量超過 6 mm（中雨以上），建議採 **方案 B**，保證舒適又不重複。
 
 <img width="2293" height="975" alt="Plan_Métro_Paris_Ligne_13_-_2024" src="https://github.com/user-attachments/assets/a11ed6ac-6be7-444c-ab61-3a5c28620e48" />
+![Ligne_6](https://github.com/user-attachments/assets/8cad5373-0d08-49ed-8d55-9c69e250894a)
 
