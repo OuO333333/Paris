@@ -3,10 +3,7 @@
 | 行程 | 時間 | 交通 | 停留時間 | PMP / 門票 | 備註 |
 |------|------|------|-----------|-------------|------|
 | 早餐 | 07:00–07:20 | — | 約 20 分鐘 | — | 飯店或附近咖啡館簡單早餐 |
-| 前往凡爾賽宮 (Château de Versailles) | 07:20–08:55 | 地鐵 13（Gaîté → Montparnasse – Bienvenüe）<br>
-轉地鐵 6（Montparnasse – Bienvenüe → Saint-Michel）<br>
-步行(Saint-Michel → Saint-Michel – Notre-Dame)<br>
-轉 RER C（Saint-Michel – Notre-Dame → Versailles Château Rive Gauche） | 約 1 小時 35 分 | ✅ PMP / €20 | 建議 07:20 從 Gaîté 出發，07:45 搭上 RER C。約 08:25–08:30 抵達凡爾賽宮站，步行 10 分鐘後 08:40 抵達宮殿入口，09:00 可準時入場 |
+| 前往凡爾賽宮 (Château de Versailles) | 07:20–08:55 | 地鐵 13（Gaîté → Montparnasse – Bienvenüe）<br>轉地鐵 6（Montparnasse – Bienvenüe → Saint-Michel）<br>步行(Saint-Michel → Saint-Michel – Notre-Dame)<br>轉 RER C（Saint-Michel – Notre-Dame → Versailles Château Rive Gauche） | 約 1 小時 35 分 | ✅ PMP / €20 | 建議 07:20 從 Gaîté 出發，07:45 搭上 RER C。約 08:25–08:30 抵達凡爾賽宮站，步行 10 分鐘後 08:40 抵達宮殿入口，09:00 可準時入場 |
 | 抵達凡爾賽宮 | 09:00 | 步行 | — | — | 可從正門金色大門進入，建議提前線上購票 |
 | 參觀凡爾賽宮主殿 | 09:00–12:00 | — | 約 3 小時 | ✅ €21.50（宮殿門票） | 主要參觀鏡廳、國王套房、王后套房等 |
 | 午餐 | 12:00–13:00 | 宮內餐廳（如 Angelina / La Petite Venise） | 約 1 小時 | — | 建議預約座位，避開人潮 |
