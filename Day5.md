@@ -9,6 +9,6 @@
 | 午餐 | 12:00–13:00 | 宮內餐廳（如 Angelina / La Petite Venise） | 約 1 小時 | — | 建議預約座位，避開人潮 |
 | 凡爾賽花園與特里亞農宮區 | 13:00–16:00 | 步行或租電動車 / 高爾夫車 | 約 3 小時 | ✅ 含於一日票 | 建議先走幾何花園、音樂噴泉區，再前往大小特里亞農宮與瑪麗皇后村 |
 | 下午茶 / 休息 | 16:00–16:30 | 宮內或車站附近咖啡館 | 約 30 分鐘 | — | 可在 Café du Château 小憩 |
-| 返回巴黎 | 16:30–18:00 | RER C（Versailles Château Rive Gauche → Saint-Michel – Notre-Dame）<br>轉地鐵 6（→ Montparnasse – Bienvenüe）<br>轉地鐵 13（→ Gaîté） | 約 1.5 小時 | — | 若遇人潮建議提早 10–15 分鐘出發 |
+| 返回巴黎 | 16:30–18:00 | RER C（Versailles Château Rive Gauche → Saint-Michel – Notre-Dame）<br>轉地鐵 6（Saint-Michel → Montparnasse – Bienvenüe）<br>轉地鐵 13（Montparnasse – Bienvenüe→ Gaîté） | 約 1.5 小時 | — | 若遇人潮建議提早 10–15 分鐘出發 |
 | 晚餐 | 18:30–19:30 | 飯店附近（Commerce / Vaugirard 一帶） | 約 1 小時 | — | 可選 Le Quartier Gourmand、Chez Imogène 等法餐 |
 | 夜間自由活動（可選） | 19:30–21:00 | — | 約 1.5 小時 | ❌ | 若體力允許可散步至蒙帕納斯鐵塔夜景區拍照 |
