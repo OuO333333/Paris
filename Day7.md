@@ -8,16 +8,17 @@
 | 前往雷恩（Rennes） | 11:35–12:50 | 🚌 Keolis 巴士（Mont-Saint-Michel → Rennes 車站） | 約 1 小時 15 分 | ✅ 含於聯票或單買 €15 左右 | 沿途欣賞布列塔尼鄉間風光 |
 | 午餐 | 12:50–13:30 | 🍴 Rennes 車站附近餐廳 | 約 40 分鐘 | — | 可選 Café de Rennes 或 Paul 麵包坊簡餐 |
 | 搭乘 TGV 返回巴黎 | 13:30–15:02 | 🚆 OUIGO Grande Vitesse 7612 （Rennes → Paris Montparnasse） | 約 1 小時 32 分 | ✅ PMP 約 €32 | 建議提早 20 分鐘上車 |
-| 抵達巴黎 Montparnasse | 15:02 | — | — | — | 可接續安排輕鬆下午行程（如 Montparnasse Tower 或 Le Bon Marché 百貨） |
-| 下午行程建議 | 15:30–18:30 | 🚇 地鐵 / 🚶‍♀️步行 | 約 3 小時 | — | ✦ Montparnasse Tower 觀景台（登塔賞景）<br>✦ Le Bon Marché 百貨與 La Grande Épicerie 美食超市<br>✦ 盧森堡公園 (Luxembourg Garden) 漫步 |
-| 晚餐 | 18:30–20:00 | 🍴 巴黎餐廳 | 約 1.5 小時 | — | 可選 Bouillon Chartier Montparnasse 或 附近小酒館 |
-| 返回住宿 | 20:00 之後 | 🚇 地鐵 / 🚶‍♀️ | — | — | 回飯店休息，準備隔日行程 |
+| 抵達巴黎 Montparnasse | 15:02–15:30 | 🚇 地鐵 13（Montparnasse–Bienvenüe → Pernety）→ 🚶‍♀️步行至 Fred Hotel | 約 30 分鐘 | — | 15:30 前後抵達 Fred Hotel，辦理 check-in |
+| 前往聖心堂 | 15:30–16:15 | 🚇 地鐵 13 號線轉 2 號線（Pernety → Anvers） | 約 45 分鐘 | — | 出站後步行上山（可搭乘登山纜車） |
+| 參觀聖心堂（Sacré-Cœur） | 16:15–17:30 | 🚶‍♀️步行 | 約 1 小時 15 分 | 免費入場 | 登頂可俯瞰巴黎全景，欣賞夕陽時分景色 |
+| 蒙馬特漫步與廣場 | 17:30–18:30 | 🚶‍♀️步行 | 約 1 小時 | — | 參觀特提爾廣場（Place du Tertre）、畫家區與商店街 |
+| 晚餐 | 18:30–20:00 | 🍴 蒙馬特餐廳 | 約 1.5 小時 | — | 推薦：Le Consulat 或 La Maison Rose（經典巴黎風情） |
+| 返回住宿 | 20:00 之後 | 🚇 地鐵（Anvers → Pernety） | 約 40 分鐘 | — | 回 Fred Hotel 休息，準備隔日行程 |
 
 ---
 
 ✅ **小提醒：**
-- Keolis 巴士的 Mont-Saint-Michel 站就在 La Caserne 接駁區巴士停靠點（走路 5 分鐘）。  
-- 若遇潮水時間接近中午，可提早 10 分鐘出發，以免受潮汐影響接駁時間。  
-- Rennes 車站內設有寄物櫃與餐廳，轉乘 TGV 很方便。  
-
----
+- 聖心堂開放至晚間 10 點，若想夜拍可延後行程。  
+- 登塔門票約 €7（可自由選擇是否登頂）。  
+- 蒙馬特區治安較鬆散，夜間請留意隨身物品。  
+- 回程可順道經過 Pigalle 或 Abbesses 站，感受夜色下的巴黎小街氛圍。  
