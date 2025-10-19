@@ -10,7 +10,7 @@
 | 搭乘 TGV 返回巴黎 | 13:30–15:02 | 🚆 OUIGO Grande Vitesse 7612 （Rennes → Paris Montparnasse） | 約 1 小時 32 分 | ✅ PMP 約 €32 | 建議提早 20 分鐘上車 |
 | 抵達巴黎 Montparnasse | 15:02 | — | — | — | 抵達後前往 Fred Hotel |
 | Check-in Fred Hotel | 15:02–15:30 | 🚇 地鐵 13（Montparnasse–Bienvenüe → Pernety）→ 🚶‍♀️步行 | 約 30 分鐘 | — | 辦理入住並放行李休息 |
-| 前往聖心堂 | 15:30–16:15 | 🚇 地鐵 13 號線轉 2 號線（Pernety → Anvers） | 約 45 分鐘 | — | 出站後步行上山（可搭乘登山纜車） |
+| 前往聖心堂 | 15:30–16:15 | 🚇 地鐵 13（Pernety → Place de Clichy）<br>🚇 轉 2 號線（Place de Clichy → Anvers） | 約 45 分鐘 | — | 出站後步行上山（可搭乘登山纜車） |
 | 參觀聖心堂（Sacré-Cœur） | 16:15–17:30 | 🚶‍♀️步行 | 約 1 小時 15 分 | 免費入場 | 登頂可俯瞰巴黎全景，欣賞夕陽時分景色 |
 | 蒙馬特漫步與廣場 | 17:30–18:30 | 🚶‍♀️步行 | 約 1 小時 | — | 參觀特提爾廣場（Place du Tertre）、畫家區與商店街 |
 | 晚餐 | 18:30–20:00 | 🍴 蒙馬特餐廳 | 約 1.5 小時 | — | 推薦：Le Consulat 或 La Maison Rose（經典巴黎風情） |
